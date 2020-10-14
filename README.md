@@ -1,1 +1,2 @@
-# VAII_SEMESTRALKA
+# Semestralka
+AHOJ SVET
